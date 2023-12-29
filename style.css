@@ -1,0 +1,63 @@
+.app {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  border: 0.5px solid #282c34;
+}
+
+/* ---------- Filters ---------- */
+
+.filters {
+  background-color: #000047;
+  border: solid 2px #123fe0;
+  padding: 10px 0;
+}
+
+.filters-container {
+  margin: 0 auto;
+  max-width: 75%;
+}
+
+.btn-generate {
+  margin-top: 8px;
+}
+
+/* ---------- Stats ---------- */
+
+.stats {
+  background-color: #000047;
+  border: solid 2px #123fe0;
+  padding: 15px;
+  max-width: 620px;
+  margin: 50px 0;
+}
+
+.ovr-font {
+  font-size: 25px;
+}
+
+.ovr-container {
+  margin: 10px 0;
+}
+
+/* ---------- Players Table ---------- */
+
+.players-table {
+  max-width: 768px;
+  margin: 5px auto;
+}
+
+.players-table thead tr th,
+.players-table tbody tr th,
+.players-table tbody tr td {
+  background-color: #282c34;
+  color: white;
+}
+
+.ovr80-89 {
+  color: #ffff00 !important;
+}
+
+.pos {
+  padding: 3px 5px;
+}
