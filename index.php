@@ -18,13 +18,18 @@
     <div class="container-lg d-flex justify-content-around align-items-center">
       <label class="fw-bold text-white" for="lineup">Lineup: </label>
       <select name="lineup" id="lineup">
-        <option value="442">4-4-2</option>
-        <option value="433">4-3-3</option>
         <option value="451">4-5-1</option>
+        <option value="442">4-4-2</option>
+        <option value="4312">4-3-1-2</option>
+        <option value="433">4-3-3</option>
+        <option value="4213">4-2-1-3</option>
         <option value="352">3-5-2</option>
         <option value="343">3-4-3</option>
+        <option value="3313">3-3-1-3</option>
         <option value="541">5-4-1</option>
+        <option value="5311">5-3-1-1</option>
         <option value="532">5-3-2</option>
+        <option value="5212">5-2-1-2</option>
       </select>
       <label class="fw-bold text-white" for="lineup">Nationality: </label>
       <select name="lineup" id="lineup">
